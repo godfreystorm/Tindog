@@ -16,4 +16,4 @@ SVG Icons: The SVG icons from the Bootstrap Icons library were used in several a
 
 # Acknowledgements
 
-The inspiration for this project stemmed from the example projects featured in The Complete 2023 Web Development Bootcamp Course.
+The inspiration for this project stemmed from the example projects featured in The Complete 2023 Web Development Bootcamp Course by Angela Yu.
