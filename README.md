@@ -1,13 +1,14 @@
-# Tindog
+Tindog
 A dating site for dogs.
-This project is a static webpage designed using HTML5, CSS3, Bootstrap and other related technologies. It is a mock-up of a dating app for dogs and provides a fun, lightweight look at what an app interface could look like.
+
+This project represents a static webpage that was designed using an array of contemporary web technologies. It mimics the format of a dating app specifically designed for dogs, offering a fun and unique take on what an app interface might look like.
 
 Technologies Used
-HTML5: Used for the basic structure of the website.
-CSS3: Used for additional styling outside of what Bootstrap provides.
-Bootstrap 5.3.0: This is the primary framework used in the project for styling and layout. Bootstrap's grid system was used extensively for responsive design.
-CSS Flexbox: Used in certain sections to handle layout and responsiveness where Bootstrap's functionality wasn't required.
-SVG Icons: SVG icons from the Bootstrap Icons library are used in several places for visually engaging user interface components.
+HTML5: Utilized for crafting the fundamental structure of the website.
+CSS3: Employed for additional styling, enhancing the website beyond what Bootstrap offers.
+Bootstrap 5.3.0: The primary framework used in the project for styling and layout. Bootstrap's grid system was extensively utilized for responsive design.
+CSS Flexbox: Deployed in specific sections to manage layout and responsiveness where Bootstrap's functionality wasn't deemed necessary.
+SVG Icons: The SVG icons from the Bootstrap Icons library were used in several areas, enriching the user interface with visually engaging components.
 
 Acknowledgements
-This project was inspired by the example projects from The Complete 2023 Web Development Bootcamp Course.
+The inspiration for this project stemmed from the example projects featured in The Complete 2023 Web Development Bootcamp Course.
